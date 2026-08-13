@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "介绍"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "教程 & 文章"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "开源库和框架"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kotlin-Android-Template",
+          "description": "An Android project template using Kotlin/MVP/ReactiveX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-02-05T14:00:56Z",
+            "owner": "nekocode",
+            "repo": "create-android-kotlin-app",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAndroid",
+          "description": "Kotlin library for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-08-02T11:56:11Z",
+            "owner": "pawegio",
+            "repo": "KAndroid",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotpref",
+          "description": "Android SharedPreference delegation for Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-07-29T06:09:56Z",
+            "owner": "chibatching",
+            "repo": "Kotpref",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuese",
+          "description": "The simple generic LRU memory/disk cache for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-06-01T07:42:44Z",
+            "owner": "kittinunf",
+            "repo": "Fuse",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bubble",
+          "description": "屏幕方向监测",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-05-20T11:35:36Z",
+            "owner": "TouK",
+            "repo": "bubble",
+            "stars": 98
+          }
+        }
+      ],
+      "title": "Android 开发"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ktor",
+          "description": "用 Kotlin 写的 Web 后端开发框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T15:14:50Z",
+            "owner": "ktorio",
+            "repo": "ktor",
+            "stars": 14500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kovert",
+          "description": "The invisible REST and web framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2018-11-15T18:16:49Z",
+            "owner": "kohesive",
+            "repo": "kovert",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KotlinPrimavera",
+          "description": "KotlinPrimavera is a set of Kotlin libraries to support Spring portfolio projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2017-01-15T19:39:35Z",
+            "owner": "MarioAriasC",
+            "repo": "KotlinPrimavera",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yested",
+          "description": "用来开发 SPA 应用的框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-06T22:20:38Z",
+            "owner": "jean79",
+            "repo": "yested",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kottpd",
+          "description": "REST framework written in pure Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-03T14:15:06Z",
+            "owner": "gimlet2",
+            "repo": "kottpd",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEXAGON",
+          "description": "微服务框架",
+          "children": []
+        }
+      ],
+      "title": "Web 开发"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fuel",
+          "description": "The easiest HTTP networking library for Kotlin/Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-03T09:16:12Z",
+            "owner": "kittinunf",
+            "repo": "fuel",
+            "stars": 4649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasabi",
+          "description": "HTTP 框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-11-08T08:43:54Z",
+            "owner": "wasabifx",
+            "repo": "wasabi",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "khttp",
+          "description": "khttp is a simple library for HTTP requests in Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-18T08:40:08Z",
+            "owner": "jkcclemens",
+            "repo": "khttp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "网络"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KotlinPoet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T03:43:25Z",
+            "owner": "square",
+            "repo": "kotlinpoet",
+            "stars": 4151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotter Knife",
+          "description": "View \"injection\" library for Android",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2019-09-12T16:12:45Z",
+            "owner": "JakeWharton",
+            "repo": "kotterknife",
+            "stars": 2205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "injekt",
+          "description": "Kotlin 依赖注入",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2019-09-06T13:27:42Z",
+            "owner": "kohesive",
+            "repo": "injekt",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kodein",
+          "description": "让你的 Kotlin 实现无痛依赖注入",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2019-05-24T18:34:36Z",
+            "owner": "SalomonBrys",
+            "repo": "Kodein",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "依赖注入"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RxKotlin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-10-16T06:34:13Z",
+            "owner": "ReactiveX",
+            "repo": "RxKotlin",
+            "stars": 7034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Result",
+          "description": "The modelling for success/failure of operations in Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-09T17:47:24Z",
+            "owner": "kittinunf",
+            "repo": "Result",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "funKTionale",
+          "description": "Functional constructs for Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-12-19T10:53:13Z",
+            "owner": "MarioAriasC",
+            "repo": "funKTionale",
+            "stars": 914
+          }
+        }
+      ],
+      "title": "函数式编程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Exposed",
+          "description": "Kotlin SQL 库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T15:40:16Z",
+            "owner": "JetBrains",
+            "repo": "Exposed",
+            "stars": 9278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KotliQuery",
+          "description": "A handy Database access library in Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-01-10T08:53:45Z",
+            "owner": "seratch",
+            "repo": "kotliquery",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin NoSQL",
+          "description": "NoSQL database query and access library for Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2017-09-12T19:21:35Z",
+            "owner": "cheptsov",
+            "repo": "kotlin-nosql",
+            "stars": 216
+          }
+        }
+      ],
+      "title": "数据库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KotlinTest",
+          "description": "Kotlin 测试框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T16:38:21Z",
+            "owner": "kotest",
+            "repo": "kotest",
+            "stars": 4785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HamKrest",
+          "description": "Hamcrest for Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-05-16T09:23:35Z",
+            "owner": "npryce",
+            "repo": "hamkrest",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knit",
+          "description": "JUnit API set for Kotlin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2016-02-26T19:09:59Z",
+            "owner": "ngsw-taro",
+            "repo": "knit",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "测试"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kotlin-vim",
+          "description": "Kotlin 语法高亮 for Vim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2022-12-30T12:08:36Z",
+            "owner": "udalov",
+            "repo": "kotlin-vim",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Package",
+          "description": "Sublime Text 2 Package for Kotlin Programming Language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-04T18:57:12Z",
+            "owner": "vkostyukov",
+            "repo": "kotlin-sublime-package",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "编辑器"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "khronos",
+          "description": "An intuitive Date extensions in Kotlin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2020-02-11T05:10:27Z",
+            "owner": "hotchemi",
+            "repo": "khronos",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Humanizer.jvm",
+          "description": "Humanizer Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2018-08-10T11:02:17Z",
+            "owner": "MehdiK",
+            "repo": "Humanizer.jvm",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hashids.kt",
+          "description": "Kotlin hashids hash function",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-03-01T12:29:21Z",
+            "owner": "leprosus",
+            "repo": "kotlin-hashids",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "其他"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Demo"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GankClient-Kotlin",
+          "description": "用 Kotlin 写的 Gank 客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2017-08-07T02:12:33Z",
+            "owner": "githubwing",
+            "repo": "GankClient-Kotlin",
+            "stars": 1515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoiShuhui-Kotlin",
+          "description": "一个用 Kotlin 写的简单漫画 APP",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2017-07-15T06:52:48Z",
+            "owner": "wuapnjie",
+            "repo": "PoiShuhui-Kotlin",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "饭否精选",
+          "description": "使用 Kotlin 开发的饭否精选 App",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2017-05-15T04:41:12Z",
+            "owner": "TonnyL",
+            "repo": "FanfouHandpick",
+            "stars": 226
+          }
+        }
+      ],
+      "title": "Android 客户端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "其他"
+    },
+    {
+      "description": "扫描二维码添加小编好友，备注：kotlin，稍后会拉你进群\n",
+      "items": [],
+      "title": "kotlin 开发交流群"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:53:57.346Z",
+    "original_repository": "xitu/awesome-kotlin-cn",
+    "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
+    "enhanced_repository": "enhansome/enhansome-kotlin-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome kotlin cn with stars"
+  }
+}
