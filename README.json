@@ -187,7 +187,7 @@
             "last_commit": "2026-08-03T09:16:12Z",
             "owner": "kittinunf",
             "repo": "fuel",
-            "stars": 4648
+            "stars": 4646
           }
         },
         {
@@ -342,10 +342,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T11:57:39Z",
+            "last_commit": "2026-08-14T20:37:16Z",
             "owner": "JetBrains",
             "repo": "Exposed",
-            "stars": 9280
+            "stars": 9281
           }
         },
         {
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:48:34.802Z",
+    "last_updated": "2026-08-15T16:20:14.133Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
     "enhanced_repository": "enhansome/enhansome-kotlin-cn",
