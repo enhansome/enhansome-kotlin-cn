@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T15:16:33Z",
             "owner": "ktorio",
             "repo": "ktor",
-            "stars": 14500
+            "stars": 14499
           }
         },
         {
@@ -232,10 +232,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-07T03:43:25Z",
+            "last_commit": "2026-08-16T14:18:14Z",
             "owner": "square",
             "repo": "kotlinpoet",
-            "stars": 4152
+            "stars": 4153
           }
         },
         {
@@ -342,10 +342,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T20:37:16Z",
+            "last_commit": "2026-08-15T17:54:13Z",
             "owner": "JetBrains",
             "repo": "Exposed",
-            "stars": 9281
+            "stars": 9282
           }
         },
         {
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:20:14.133Z",
+    "last_updated": "2026-08-16T16:20:54.194Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
     "enhanced_repository": "enhansome/enhansome-kotlin-cn",
