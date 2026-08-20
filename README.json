@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 40136600,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T15:31:13Z",
+                "last_commit": "2026-08-20T15:57:40Z",
                 "owner": "ktorio",
                 "repo": "ktor",
                 "stars": 14500
@@ -300,7 +300,7 @@
                 "last_commit": "2023-10-16T06:34:13Z",
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7031
+                "stars": 7030
               }
             },
             {
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 11765017,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T14:59:31Z",
+                "last_commit": "2026-08-20T10:26:56Z",
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9282
+                "stars": 9283
               }
             },
             {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:27:43.383Z",
+    "last_updated": "2026-08-20T16:31:03.106Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_id": 91764884,
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
