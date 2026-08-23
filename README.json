@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-21T13:46:20Z",
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14501
+                "stars": 14500
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-08-03T09:16:12Z",
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4646
+                "stars": 4647
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 83513404,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T15:32:10Z",
+                "last_commit": "2026-08-22T20:45:10Z",
                 "owner": "square",
                 "repo": "kotlinpoet",
                 "stars": 4157
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-21T15:03:09Z",
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9284
+                "stars": 9283
               }
             },
             {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:19:44.020Z",
+    "last_updated": "2026-08-23T16:20:55.298Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_id": 91764884,
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
