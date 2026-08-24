@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,352 | 🐛 410 | 🌐 Kotlin | 📅 2026-08-23
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,353 | 🐛 416 | 🌐 Kotlin | 📅 2026-08-24
 
 ## 中文社区
 
@@ -87,7 +87,7 @@
 
 ### Android 开发
 
-* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) ⭐ 1,584 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - An Android project template using Kotlin/MVP/ReactiveX.
+* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) ⭐ 1,585 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - An Android project template using Kotlin/MVP/ReactiveX.
 * [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 890 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - Kotlin library for Android
 * [Kotpref](https://github.com/chibatching/Kotpref) ⚠️ Archived - Android SharedPreference delegation for Kotlin.
 * [Fuese](https://github.com/kittinunf/Fuse) ⭐ 287 | 🐛 3 | 🌐 Kotlin | 📅 2022-06-01 - The simple generic LRU memory/disk cache for Android
@@ -95,7 +95,7 @@
 
 ### Web 开发
 
-* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,500 | 🐛 177 | 🌐 Kotlin | 📅 2026-08-21 - 用 Kotlin 写的 Web 后端开发框架
+* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,499 | 🐛 181 | 🌐 Kotlin | 📅 2026-08-24 - 用 Kotlin 写的 Web 后端开发框架
 * [Kovert](https://github.com/kohesive/kovert) ⭐ 158 | 🐛 9 | 🌐 Kotlin | 📅 2018-11-15 - The invisible REST and web framework
 * [KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) ⭐ 89 | 🐛 2 | 🌐 Kotlin | 📅 2017-01-15 - KotlinPrimavera is a set of Kotlin libraries to support Spring portfolio projects
 * [Yested](https://github.com/jean79/yested) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2018-02-06 - 用来开发 SPA 应用的框架
@@ -128,7 +128,7 @@
 
 ### 数据库
 
-* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,283 | 🐛 164 | 🌐 Kotlin | 📅 2026-08-21 - Kotlin SQL 库
+* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,283 | 🐛 163 | 🌐 Kotlin | 📅 2026-08-24 - Kotlin SQL 库
 * [KotliQuery](https://github.com/seratch/kotliquery) ⭐ 219 | 🐛 14 | 🌐 Kotlin | 📅 2025-01-10 - A handy Database access library in Kotlin
 * [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) ⭐ 216 | 🐛 11 | 🌐 Kotlin | 📅 2017-09-12 - NoSQL database query and access library for Kotlin
 
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

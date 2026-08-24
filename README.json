@@ -17,7 +17,7 @@
                 "last_commit": "2021-02-05T14:00:56Z",
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1584
+                "stars": 1585
               }
             },
             {
@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 40136600,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T13:46:20Z",
+                "last_commit": "2026-08-24T14:12:37Z",
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14500
+                "stars": 14499
               }
             },
             {
@@ -342,6 +342,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Klaxon",
+              "description": "一个解析 JSON 的库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9588335,
+                "language": "Kotlin",
+                "last_commit": "2026-02-04T19:41:32Z",
+                "owner": "cbeust",
+                "repo": "klaxon",
+                "stars": 1862
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JSON"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Exposed",
               "description": "Kotlin SQL 库",
               "children": [],
@@ -349,7 +371,7 @@
                 "archived": false,
                 "id": 11765017,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T15:03:09Z",
+                "last_commit": "2026-08-24T12:25:48Z",
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9283
@@ -594,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:20:55.298Z",
+    "last_updated": "2026-08-24T14:14:44.858Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_id": 91764884,
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
