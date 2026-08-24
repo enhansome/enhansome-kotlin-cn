@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 40136600,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T14:12:37Z",
+                "last_commit": "2026-08-24T16:13:20Z",
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14499
+                "stars": 14498
               }
             },
             {
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:44.858Z",
+    "last_updated": "2026-08-24T16:33:17.106Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_id": 91764884,
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
