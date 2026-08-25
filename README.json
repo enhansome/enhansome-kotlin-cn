@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-24T16:13:20Z",
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14498
+                "stars": 14500
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 83513404,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T20:45:10Z",
+                "last_commit": "2026-08-25T04:10:48Z",
                 "owner": "square",
                 "repo": "kotlinpoet",
                 "stars": 4157
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:33:17.106Z",
+    "last_updated": "2026-08-25T06:08:04.016Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_id": 91764884,
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",

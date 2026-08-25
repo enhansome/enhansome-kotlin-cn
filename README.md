@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,354 | 🐛 417 | 🌐 Kotlin | 📅 2026-08-24
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,355 | 🐛 416 | 🌐 Kotlin | 📅 2026-08-25
 
 ## 中文社区
 
@@ -95,7 +95,7 @@
 
 ### Web 开发
 
-* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,498 | 🐛 181 | 🌐 Kotlin | 📅 2026-08-24 - 用 Kotlin 写的 Web 后端开发框架
+* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,500 | 🐛 181 | 🌐 Kotlin | 📅 2026-08-24 - 用 Kotlin 写的 Web 后端开发框架
 * [Kovert](https://github.com/kohesive/kovert) ⭐ 158 | 🐛 9 | 🌐 Kotlin | 📅 2018-11-15 - The invisible REST and web framework
 * [KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) ⭐ 89 | 🐛 2 | 🌐 Kotlin | 📅 2017-01-15 - KotlinPrimavera is a set of Kotlin libraries to support Spring portfolio projects
 * [Yested](https://github.com/jean79/yested) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2018-02-06 - 用来开发 SPA 应用的框架
@@ -111,7 +111,7 @@
 
 ### 依赖注入
 
-* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,157 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-22
+* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,157 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-25
 * [Kotter Knife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - View "injection" library for Android
 * [injekt](https://github.com/kohesive/injekt) ⚠️ Archived - Kotlin 依赖注入
 * [Kodein](https://github.com/SalomonBrys/Kodein) ⚠️ Archived - 让你的 Kotlin 实现无痛依赖注入
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
