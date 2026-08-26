@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,354 | 🐛 413 | 🌐 Kotlin | 📅 2026-08-25
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,352 | 🐛 402 | 🌐 Kotlin | 📅 2026-08-26
 
 ## 中文社区
 
@@ -95,11 +95,11 @@
 
 ### Web 开发
 
-* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,501 | 🐛 179 | 🌐 Kotlin | 📅 2026-08-25 - 用 Kotlin 写的 Web 后端开发框架
+* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,503 | 🐛 185 | 🌐 Kotlin | 📅 2026-08-26 - 用 Kotlin 写的 Web 后端开发框架
 * [Kovert](https://github.com/kohesive/kovert) ⭐ 158 | 🐛 9 | 🌐 Kotlin | 📅 2018-11-15 - The invisible REST and web framework
 * [KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) ⭐ 89 | 🐛 2 | 🌐 Kotlin | 📅 2017-01-15 - KotlinPrimavera is a set of Kotlin libraries to support Spring portfolio projects
 * [Yested](https://github.com/jean79/yested) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2018-02-06 - 用来开发 SPA 应用的框架
-* [kottpd](https://github.com/gimlet2/kottpd) ⭐ 75 | 🐛 22 | 🌐 Kotlin | 📅 2026-05-03 - REST framework written in pure Kotlin
+* [kottpd](https://github.com/gimlet2/kottpd) ⭐ 74 | 🐛 22 | 🌐 Kotlin | 📅 2026-05-03 - REST framework written in pure Kotlin
 * [Kara](http://karaframework.com/) - MVC 开发框架
 * [HEXAGON](https://github.com/jaguililla/hexagon) - 微服务框架
 
@@ -111,14 +111,14 @@
 
 ### 依赖注入
 
-* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,157 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-25
+* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,156 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-25
 * [Kotter Knife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - View "injection" library for Android
 * [injekt](https://github.com/kohesive/injekt) ⚠️ Archived - Kotlin 依赖注入
 * [Kodein](https://github.com/SalomonBrys/Kodein) ⚠️ Archived - 让你的 Kotlin 实现无痛依赖注入
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,030 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,029 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16
 * [Result](https://github.com/kittinunf/Result) ⭐ 935 | 🐛 2 | 🌐 Kotlin | 📅 2026-02-09 - The modelling for success/failure of operations in Kotlin
 * [funKTionale](https://github.com/MarioAriasC/funKTionale) ⭐ 914 | 🐛 11 | 🌐 Kotlin | 📅 2019-12-19 - Functional constructs for Kotlin
 
@@ -128,14 +128,14 @@
 
 ### 数据库
 
-* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,282 | 🐛 165 | 🌐 Kotlin | 📅 2026-08-25 - Kotlin SQL 库
+* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,281 | 🐛 160 | 🌐 Kotlin | 📅 2026-08-26 - Kotlin SQL 库
 * [KotliQuery](https://github.com/seratch/kotliquery) ⭐ 219 | 🐛 14 | 🌐 Kotlin | 📅 2025-01-10 - A handy Database access library in Kotlin
 * [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) ⭐ 216 | 🐛 11 | 🌐 Kotlin | 📅 2017-09-12 - NoSQL database query and access library for Kotlin
 
 ### 测试
 
-* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,788 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-14 - Kotlin 测试框架
-* [HamKrest](https://github.com/npryce/hamkrest) ⭐ 344 | 🐛 6 | 🌐 Kotlin | 📅 2024-05-16 - Hamcrest for Kotlin
+* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,787 | 🐛 45 | 🌐 Kotlin | 📅 2026-08-14 - Kotlin 测试框架
+* [HamKrest](https://github.com/npryce/hamkrest) ⭐ 343 | 🐛 6 | 🌐 Kotlin | 📅 2024-05-16 - Hamcrest for Kotlin
 * [Knit](https://github.com/ntaro/knit) ⭐ 59 | 🐛 0 | 🌐 Kotlin | 📅 2016-02-26 - JUnit API set for Kotlin
 * [Spek](http://spekframework.org/) - 	A Specification Framework
 
@@ -151,7 +151,7 @@
 ### 其他
 
 * [khronos](https://github.com/hotchemi/khronos) ⚠️ Archived - An intuitive Date extensions in Kotlin.
-* [Humanizer.jvm](https://github.com/MehdiK/Humanizer.jvm) ⭐ 169 | 🐛 5 | 🌐 Kotlin | 📅 2018-08-10 - Humanizer Library
+* [Humanizer.jvm](https://github.com/MehdiK/Humanizer.jvm) ⭐ 168 | 🐛 5 | 🌐 Kotlin | 📅 2018-08-10 - Humanizer Library
 * [Hashids.kt](https://github.com/leprosus/kotlin-hashids) ⭐ 126 | 🐛 2 | 🌐 Kotlin | 📅 2022-03-01 - Kotlin hashids hash function
 
 ## Demo
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

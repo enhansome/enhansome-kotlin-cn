@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 40136600,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T16:10:32Z",
+                "last_commit": "2026-08-26T14:55:57Z",
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14501
+                "stars": 14503
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-05-03T14:15:06Z",
                 "owner": "gimlet2",
                 "repo": "kottpd",
-                "stars": 75
+                "stars": 74
               }
             }
           ],
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-25T04:10:48Z",
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4157
+                "stars": 4156
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2019-09-06T13:27:42Z",
                 "owner": "kohesive",
                 "repo": "injekt",
-                "stars": 237
+                "stars": 236
               }
             },
             {
@@ -300,7 +300,7 @@
                 "last_commit": "2023-10-16T06:34:13Z",
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7030
+                "stars": 7029
               }
             },
             {
@@ -371,10 +371,10 @@
                 "archived": false,
                 "id": 11765017,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T12:21:45Z",
+                "last_commit": "2026-08-26T12:57:05Z",
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9282
+                "stars": 9281
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-08-14T01:36:29Z",
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4788
+                "stars": 4787
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2024-05-16T09:23:35Z",
                 "owner": "npryce",
                 "repo": "hamkrest",
-                "stars": 344
+                "stars": 343
               }
             },
             {
@@ -515,7 +515,7 @@
                 "last_commit": "2020-02-11T05:10:27Z",
                 "owner": "hotchemi",
                 "repo": "khronos",
-                "stars": 330
+                "stars": 329
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2018-08-10T11:02:17Z",
                 "owner": "MehdiK",
                 "repo": "Humanizer.jvm",
-                "stars": 169
+                "stars": 168
               }
             },
             {
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:33:11.175Z",
+    "last_updated": "2026-08-26T16:45:57.879Z",
     "original_repository": "xitu/awesome-kotlin-cn",
     "original_repository_id": 91764884,
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
