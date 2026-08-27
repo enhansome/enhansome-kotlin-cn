@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 40136600,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T14:55:57Z",
+                "last_commit": "2026-08-27T11:19:50Z",
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14503
+                "stars": 14504
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 83513404,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T04:10:48Z",
+                "last_commit": "2026-08-26T22:09:41Z",
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4156
+                "stars": 4157
               }
             },
             {
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 11765017,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T12:57:05Z",
+                "last_commit": "2026-08-27T10:29:42Z",
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9281
@@ -426,7 +426,7 @@
                 "last_commit": "2026-08-14T01:36:29Z",
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4787
+                "stars": 4789
               }
             },
             {
@@ -616,9 +616,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:45:57.879Z",
-    "original_repository": "xitu/awesome-kotlin-cn",
-    "original_repository_id": 91764884,
+    "last_updated": "2026-08-27T11:47:43.388Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 91764884,
+      "language": null,
+      "last_commit": "2017-05-31T11:10:47Z",
+      "owner": "xitu",
+      "repo": "awesome-kotlin-cn",
+      "stars": 1076
+    },
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
     "enhanced_repository": "enhansome/enhansome-kotlin-cn",
     "enhanced_repository_description": null,
