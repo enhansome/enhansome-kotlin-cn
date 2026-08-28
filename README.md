@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,357 | 🐛 403 | 🌐 Kotlin | 📅 2026-08-27
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,358 | 🐛 400 | 🌐 Kotlin | 📅 2026-08-27
 
 ## 中文社区
 
@@ -111,7 +111,7 @@
 
 ### 依赖注入
 
-* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,157 | 🐛 72 | 🌐 Kotlin | 📅 2026-08-26
+* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,157 | 🐛 72 | 🌐 Kotlin | 📅 2026-08-27
 * [Kotter Knife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - View "injection" library for Android
 * [injekt](https://github.com/kohesive/injekt) ⚠️ Archived - Kotlin 依赖注入
 * [Kodein](https://github.com/SalomonBrys/Kodein) ⚠️ Archived - 让你的 Kotlin 实现无痛依赖注入
@@ -128,7 +128,7 @@
 
 ### 数据库
 
-* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,281 | 🐛 161 | 🌐 Kotlin | 📅 2026-08-27 - Kotlin SQL 库
+* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,283 | 🐛 162 | 🌐 Kotlin | 📅 2026-08-27 - Kotlin SQL 库
 * [KotliQuery](https://github.com/seratch/kotliquery) ⭐ 219 | 🐛 14 | 🌐 Kotlin | 📅 2025-01-10 - A handy Database access library in Kotlin
 * [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) ⭐ 216 | 🐛 11 | 🌐 Kotlin | 📅 2017-09-12 - NoSQL database query and access library for Kotlin
 
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
