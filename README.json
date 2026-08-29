@@ -18,7 +18,8 @@
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
                 "stars": 1585
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "pawegio",
                 "repo": "KAndroid",
                 "stars": 890
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "chibatching",
                 "repo": "Kotpref",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "kittinunf",
                 "repo": "Fuse",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "TouK",
                 "repo": "bubble",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 40136600,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T14:55:07Z",
+                "last_commit": "2026-08-28T16:13:09Z",
                 "owner": "ktorio",
                 "repo": "ktor",
                 "stars": 14504
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "kohesive",
                 "repo": "kovert",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "MarioAriasC",
                 "repo": "KotlinPrimavera",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "jean79",
                 "repo": "yested",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "gimlet2",
                 "repo": "kottpd",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -182,7 +192,8 @@
                 "owner": "kittinunf",
                 "repo": "fuel",
                 "stars": 4647
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "wasabifx",
                 "repo": "wasabi",
                 "stars": 499
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "jkcclemens",
                 "repo": "khttp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "square",
                 "repo": "kotlinpoet",
                 "stars": 4157
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "JakeWharton",
                 "repo": "kotterknife",
                 "stars": 2205
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "kohesive",
                 "repo": "injekt",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "SalomonBrys",
                 "repo": "Kodein",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -301,7 +318,8 @@
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
                 "stars": 7029
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "kittinunf",
                 "repo": "Result",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "MarioAriasC",
                 "repo": "funKTionale",
                 "stars": 914
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -353,7 +373,8 @@
                 "owner": "cbeust",
                 "repo": "klaxon",
                 "stars": 1862
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -371,11 +392,12 @@
                 "archived": false,
                 "id": 11765017,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T12:54:30Z",
+                "last_commit": "2026-08-28T12:19:22Z",
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9283
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -390,7 +412,8 @@
                 "owner": "seratch",
                 "repo": "kotliquery",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "cheptsov",
                 "repo": "kotlin-nosql",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -427,7 +451,8 @@
                 "owner": "kotest",
                 "repo": "kotest",
                 "stars": 4789
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "npryce",
                 "repo": "hamkrest",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "ngsw-taro",
                 "repo": "knit",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -479,7 +506,8 @@
                 "owner": "udalov",
                 "repo": "kotlin-vim",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "vkostyukov",
                 "repo": "kotlin-sublime-package",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -516,7 +545,8 @@
                 "owner": "hotchemi",
                 "repo": "khronos",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -531,7 +561,8 @@
                 "owner": "MehdiK",
                 "repo": "Humanizer.jvm",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -546,7 +577,8 @@
                 "owner": "leprosus",
                 "repo": "kotlin-hashids",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -574,7 +606,8 @@
                 "owner": "githubwing",
                 "repo": "GankClient-Kotlin",
                 "stars": 1515
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -589,7 +622,8 @@
                 "owner": "wuapnjie",
                 "repo": "PoiShuhui-Kotlin",
                 "stars": 951
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             },
             {
               "node_type": "item",
@@ -604,7 +638,8 @@
                 "owner": "TonnyL",
                 "repo": "FanfouHandpick",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-29T00:23:22.422Z"
             }
           ],
           "description": null,
@@ -616,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:44:13.450Z",
+    "last_updated": "2026-08-29T00:23:22.422Z",
     "original_repository_info": {
       "archived": false,
       "id": 91764884,
