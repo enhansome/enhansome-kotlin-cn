@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create kotlin android project with one line of command.",
+                "homepage": null,
                 "id": 41577702,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-05T14:00:56Z",
+                "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1585
+                "stars": 1585,
+                "topics": [
+                  "android",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -28,12 +36,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin library for Android",
+                "homepage": null,
                 "id": 32946447,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-02T11:56:11Z",
+                "open_issues": 6,
                 "owner": "pawegio",
                 "repo": "KAndroid",
-                "stars": 890
+                "stars": 890,
+                "topics": [
+                  "android",
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-extensions",
+                  "kotlin-library"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -44,12 +63,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kotpref - Android SharedPreferences delegation library for Kotlin",
+                "homepage": "https://chibatching.github.io/Kotpref/",
                 "id": 40081857,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T06:09:56Z",
+                "open_issues": 0,
                 "owner": "chibatching",
                 "repo": "Kotpref",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "android",
+                  "kotlin",
+                  "sharedpreferences"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -60,12 +88,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The simple generic LRU memory/disk cache for Android written in Kotlin",
+                "homepage": "https://kittinunf.gitbook.io/fuse/",
                 "id": 57063889,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2022-06-01T07:42:44Z",
+                "open_issues": 3,
                 "owner": "kittinunf",
                 "repo": "Fuse",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "android",
+                  "cache",
+                  "disklrucache",
+                  "kotlin",
+                  "lru-cache"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -76,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Screen orientation detector for android",
+                "homepage": null,
                 "id": 43546848,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-20T11:35:36Z",
+                "open_issues": 0,
                 "owner": "TouK",
                 "repo": "bubble",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -99,12 +143,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+                "homepage": "https://ktor.io",
                 "id": 40136600,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:13:09Z",
+                "open_issues": 182,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14504
+                "stars": 14504,
+                "topics": [
+                  "async",
+                  "asynchronous",
+                  "kotlin",
+                  "web",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -115,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The invisible REST and web framework",
+                "homepage": null,
                 "id": 41204568,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2018-11-15T18:16:49Z",
+                "open_issues": 9,
                 "owner": "kohesive",
                 "repo": "kovert",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -131,12 +191,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring support libraries for Kotlin",
+                "homepage": null,
                 "id": 9384220,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2017-01-15T19:39:35Z",
+                "open_issues": 2,
                 "owner": "MarioAriasC",
                 "repo": "KotlinPrimavera",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "kotlin",
+                  "spring",
+                  "spring-security",
+                  "springframework"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -147,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kotlin framework for building web applications in Javascript.",
+                "homepage": null,
                 "id": 27994833,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-02-06T22:20:38Z",
+                "open_issues": 15,
                 "owner": "jean79",
                 "repo": "yested",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -163,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST framework written in pure Kotlin",
+                "homepage": null,
                 "id": 65999896,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-05-03T14:15:06Z",
+                "open_issues": 22,
                 "owner": "gimlet2",
                 "repo": "kottpd",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -186,12 +266,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest HTTP networking library for Kotlin/Android",
+                "homepage": "https://fuel.gitbook.io/documentation/",
                 "id": 36847034,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-03T09:16:12Z",
+                "open_issues": 98,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4647
+                "stars": 4647,
+                "topics": [
+                  "android",
+                  "http-client",
+                  "kotlin",
+                  "networking",
+                  "rest",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -202,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP Framework",
+                "homepage": null,
                 "id": 9009498,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2019-11-08T08:43:54Z",
+                "open_issues": 20,
                 "owner": "wasabifx",
                 "repo": "wasabi",
-                "stars": 499
+                "stars": 499,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -218,12 +315,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security Placeholder: Claimed for supply chain research. If you use this dependency, please read the README.",
+                "homepage": "https://labs.itresit.es/2026/02/18/supply-chain-necromancy-reborn-namespaces-in-jitpack-coordinates/",
                 "id": 1159858072,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-18T08:40:08Z",
+                "open_issues": 0,
                 "owner": "jkcclemens",
                 "repo": "khttp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "supply-chain-security"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -241,12 +345,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kotlin API for generating .kt source files.",
+                "homepage": "https://square.github.io/kotlinpoet/",
                 "id": 83513404,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:50:07Z",
+                "open_issues": 72,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4157
+                "stars": 4157,
+                "topics": [
+                  "code-generation",
+                  "javapoet",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -257,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "View \"injection\" library for Android.",
+                "homepage": null,
                 "id": 25452970,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2019-09-12T16:12:45Z",
+                "open_issues": 16,
                 "owner": "JakeWharton",
                 "repo": "kotterknife",
-                "stars": 2205
+                "stars": 2205,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -273,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dependency Injection for Kotlin",
+                "homepage": null,
                 "id": 40086213,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2019-09-06T13:27:42Z",
+                "open_issues": 14,
                 "owner": "kohesive",
                 "repo": "injekt",
-                "stars": 236
+                "stars": 236,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -289,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 127426166,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2019-05-24T18:34:36Z",
+                "open_issues": 1,
                 "owner": "SalomonBrys",
                 "repo": "Kodein",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -312,12 +440,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxJava bindings for Kotlin",
+                "homepage": null,
                 "id": 23095938,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-16T06:34:13Z",
+                "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7029
+                "stars": 7029,
+                "topics": [
+                  "kotlin",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -328,12 +464,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The modelling for success/failure of operations in Kotlin and KMM (Kotlin Multiplatform Mobile)",
+                "homepage": null,
                 "id": 45111154,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-09T17:47:24Z",
+                "open_issues": 2,
                 "owner": "kittinunf",
                 "repo": "Result",
-                "stars": 935
+                "stars": 935,
+                "topics": [
+                  "functional",
+                  "kotlin",
+                  "kotlin-multiplatform",
+                  "kotlin-multiplatform-library",
+                  "optional",
+                  "result"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -344,12 +492,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional constructs for Kotlin",
+                "homepage": null,
                 "id": 9098277,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2019-12-19T10:53:13Z",
+                "open_issues": 11,
                 "owner": "MarioAriasC",
                 "repo": "funKTionale",
-                "stars": 914
+                "stars": 914,
+                "topics": [
+                  "functional-programming",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -367,12 +523,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JSON parser for Kotlin",
+                "homepage": null,
                 "id": 9588335,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-04T19:41:32Z",
+                "open_issues": 95,
                 "owner": "cbeust",
                 "repo": "klaxon",
-                "stars": 1862
+                "stars": 1862,
+                "topics": [
+                  "json",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -390,12 +554,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin SQL Framework",
+                "homepage": "https://www.jetbrains.com/exposed/",
                 "id": 11765017,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:19:22Z",
+                "open_issues": 162,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9283
+                "stars": 9283,
+                "topics": [
+                  "dao",
+                  "kotlin",
+                  "orm",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -406,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A handy Database access library in Kotlin",
+                "homepage": null,
                 "id": 47000280,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-01-10T08:53:45Z",
+                "open_issues": 14,
                 "owner": "seratch",
                 "repo": "kotliquery",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -422,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NoSQL database query and access library for Kotlin",
+                "homepage": null,
                 "id": 11309008,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2017-09-12T19:21:35Z",
+                "open_issues": 11,
                 "owner": "cheptsov",
                 "repo": "kotlin-nosql",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -445,12 +629,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.",
+                "homepage": "https://kotest.io",
                 "id": 47071082,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T01:36:29Z",
+                "open_issues": 45,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4789
+                "stars": 4789,
+                "topics": [
+                  "assertions",
+                  "kotlin",
+                  "kotlin-js",
+                  "kotlin-multiplatform",
+                  "matchers",
+                  "multiplatform",
+                  "property-testing",
+                  "test",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -461,12 +661,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hamcrest for Kotlin",
+                "homepage": null,
                 "id": 45973104,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-16T09:23:35Z",
+                "open_issues": 6,
                 "owner": "npryce",
                 "repo": "hamkrest",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "assertions",
+                  "hamcrest",
+                  "kotlin",
+                  "matchers",
+                  "predicates",
+                  "test-automation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -477,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JUnit API set for Kotlin",
+                "homepage": null,
                 "id": 52322155,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2016-02-26T19:09:59Z",
+                "open_issues": 0,
                 "owner": "ngsw-taro",
                 "repo": "knit",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -500,12 +718,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support",
+                "homepage": null,
                 "id": 6857126,
                 "language": "Vim Script",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-30T12:08:36Z",
+                "open_issues": 5,
                 "owner": "udalov",
                 "repo": "kotlin-vim",
-                "stars": 628
+                "stars": 628,
+                "topics": [
+                  "kotlin",
+                  "kotlin-vim",
+                  "syntastic",
+                  "vim",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -516,12 +745,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sublime Text 2 Package for Kotlin Programming Language",
+                "homepage": null,
                 "id": 5243085,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-04T18:57:12Z",
+                "open_issues": 14,
                 "owner": "vkostyukov",
                 "repo": "kotlin-sublime-package",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -539,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An intuitive Date extensions in Kotlin.",
+                "homepage": "http://hotchemi.github.io/khronos",
                 "id": 54334986,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-11T05:10:27Z",
+                "open_issues": 7,
                 "owner": "hotchemi",
                 "repo": "khronos",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -555,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 18829088,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-10T11:02:17Z",
+                "open_issues": 5,
                 "owner": "MehdiK",
                 "repo": "Humanizer.jvm",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -571,12 +815,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin hashids hash function",
+                "homepage": null,
                 "id": 29434901,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2022-03-01T12:29:21Z",
+                "open_issues": 2,
                 "owner": "leprosus",
                 "repo": "kotlin-hashids",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "decode",
+                  "encode",
+                  "hash",
+                  "hashids",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -600,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gank.io kotlin实现的干货集中营Android客户端 Kotlin  Dagger Databinding Rxjava Retrofit Okhttp3",
+                "homepage": null,
                 "id": 74459584,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2017-08-07T02:12:33Z",
+                "open_issues": 12,
                 "owner": "githubwing",
                 "repo": "GankClient-Kotlin",
-                "stars": 1515
+                "stars": 1515,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -616,12 +876,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Deprecated]一个用Kotlin写的简单漫画APP",
+                "homepage": null,
                 "id": 53592874,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2017-07-15T06:52:48Z",
+                "open_issues": 8,
                 "owner": "wuapnjie",
                 "repo": "PoiShuhui-Kotlin",
-                "stars": 951
+                "stars": 951,
+                "topics": [
+                  "comic",
+                  "kotlin",
+                  "kotlin-app"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             },
@@ -632,12 +901,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📖 A Fanfou Handpick Client Developed by Kotlin",
+                "homepage": null,
                 "id": 62868187,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-15T04:41:12Z",
+                "open_issues": 0,
                 "owner": "TonnyL",
                 "repo": "FanfouHandpick",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "android",
+                  "fanfou",
+                  "kotlin",
+                  "kotlin-android"
+                ]
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
             }
@@ -651,15 +930,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:23:22.422Z",
+    "last_updated": "2026-08-29T04:33:32.162Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
+      "homepage": null,
       "id": 91764884,
       "language": null,
+      "license": null,
       "last_commit": "2017-05-31T11:10:47Z",
+      "open_issues": 2,
       "owner": "xitu",
       "repo": "awesome-kotlin-cn",
-      "stars": 1076
+      "stars": 1076,
+      "topics": [
+        "awesome",
+        "kotlin"
+      ]
     },
     "original_repository_sha": "9c3f2c1abba1bbb24f92c1b14e839845d4a34bd5",
     "enhanced_repository": "enhansome/enhansome-kotlin-cn",

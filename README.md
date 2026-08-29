@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,361 | 🐛 402 | 🌐 Kotlin | 📅 2026-08-28
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,361 | 🐛 402 | 🌐 Kotlin | 📅 2026-08-29
 
 ## 中文社区
 
