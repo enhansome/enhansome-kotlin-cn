@@ -152,7 +152,7 @@
                 "open_issues": 184,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14517,
+                "stars": 14515,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -354,7 +354,7 @@
                 "open_issues": 68,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4158,
+                "stars": 4157,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -563,7 +563,7 @@
                 "open_issues": 168,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9285,
+                "stars": 9284,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -638,7 +638,7 @@
                 "open_issues": 49,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4789,
+                "stars": 4790,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:53:46.307Z",
+    "last_updated": "2026-09-06T17:59:19.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
