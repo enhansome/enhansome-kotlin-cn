@@ -148,11 +148,11 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T11:29:09Z",
+                "last_commit": "2026-09-16T15:59:58Z",
                 "open_issues": 179,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14527,
+                "stars": 14528,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -350,11 +350,11 @@
                 "id": 83513404,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T08:37:06Z",
+                "last_commit": "2026-09-16T02:22:24Z",
                 "open_issues": 69,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4157,
+                "stars": 4158,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -559,7 +559,7 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T03:36:37Z",
+                "last_commit": "2026-09-16T09:19:48Z",
                 "open_issues": 172,
                 "owner": "JetBrains",
                 "repo": "Exposed",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:30:52.235Z",
+    "last_updated": "2026-09-16T19:21:24.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
