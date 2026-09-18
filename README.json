@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1584,
+                "stars": 1583,
                 "topics": [
                   "android",
                   "template"
@@ -148,8 +148,8 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T13:27:18Z",
-                "open_issues": 179,
+                "last_commit": "2026-09-18T14:26:51Z",
+                "open_issues": 185,
                 "owner": "ktorio",
                 "repo": "ktor",
                 "stars": 14530,
@@ -449,7 +449,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7028,
+                "stars": 7026,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -559,11 +559,11 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T14:55:16Z",
-                "open_issues": 172,
+                "last_commit": "2026-09-18T12:52:51Z",
+                "open_issues": 167,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9288,
+                "stars": 9287,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -635,10 +635,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T19:16:00Z",
-                "open_issues": 45,
+                "open_issues": 47,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4790,
+                "stars": 4788,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -727,7 +727,7 @@
                 "open_issues": 5,
                 "owner": "udalov",
                 "repo": "kotlin-vim",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "kotlin",
                   "kotlin-vim",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:30:59.213Z",
+    "last_updated": "2026-09-18T18:50:56.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
