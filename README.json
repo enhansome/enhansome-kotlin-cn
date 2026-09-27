@@ -152,7 +152,7 @@
                 "open_issues": 198,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14531,
+                "stars": 14532,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -275,7 +275,7 @@
                 "open_issues": 99,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4648,
+                "stars": 4647,
                 "topics": [
                   "android",
                   "http-client",
@@ -638,7 +638,7 @@
                 "open_issues": 49,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4790,
+                "stars": 4789,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:58:38.695Z",
+    "last_updated": "2026-09-27T19:30:46.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
