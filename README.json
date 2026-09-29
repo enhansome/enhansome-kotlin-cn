@@ -148,8 +148,8 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T11:40:21Z",
-                "open_issues": 197,
+                "last_commit": "2026-09-29T19:23:16Z",
+                "open_issues": 198,
                 "owner": "ktorio",
                 "repo": "ktor",
                 "stars": 14532,
@@ -559,8 +559,8 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T14:21:22Z",
-                "open_issues": 169,
+                "last_commit": "2026-09-29T12:52:55Z",
+                "open_issues": 167,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9291,
@@ -727,7 +727,7 @@
                 "open_issues": 5,
                 "owner": "udalov",
                 "repo": "kotlin-vim",
-                "stars": 628,
+                "stars": 626,
                 "topics": [
                   "kotlin",
                   "kotlin-vim",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:34:19.757Z",
+    "last_updated": "2026-09-29T20:26:03.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
