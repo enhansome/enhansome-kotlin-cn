@@ -97,7 +97,7 @@
                 "open_issues": 3,
                 "owner": "kittinunf",
                 "repo": "Fuse",
-                "stars": 287,
+                "stars": 286,
                 "topics": [
                   "android",
                   "cache",
@@ -152,7 +152,7 @@
                 "open_issues": 199,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14533,
+                "stars": 14536,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -275,7 +275,7 @@
                 "open_issues": 99,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4648,
+                "stars": 4647,
                 "topics": [
                   "android",
                   "http-client",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "MarioAriasC",
                 "repo": "funKTionale",
-                "stars": 914,
+                "stars": 913,
                 "topics": [
                   "functional-programming",
                   "kotlin"
@@ -559,8 +559,8 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T13:15:21Z",
-                "open_issues": 171,
+                "last_commit": "2026-10-02T15:13:30Z",
+                "open_issues": 174,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9292,
@@ -634,7 +634,7 @@
                 "id": 47071082,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:21:26Z",
+                "last_commit": "2026-10-02T19:27:22Z",
                 "open_issues": 51,
                 "owner": "kotest",
                 "repo": "kotest",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:46:42.031Z",
+    "last_updated": "2026-10-02T20:19:43.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
