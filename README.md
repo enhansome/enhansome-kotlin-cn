@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,464 | 🐛 450 | 🌐 Kotlin | 📅 2026-10-02
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,467 | 🐛 450 | 🌐 Kotlin | 📅 2026-10-03
 
 ## 中文社区
 
@@ -111,7 +111,7 @@
 
 ### 依赖注入
 
-* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,160 | 🐛 68 | 🌐 Kotlin | 📅 2026-09-26
+* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,160 | 🐛 68 | 🌐 Kotlin | 📅 2026-10-03
 * [Kotter Knife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - View "injection" library for Android
 * [injekt](https://github.com/kohesive/injekt) ⚠️ Archived - Kotlin 依赖注入
 * [Kodein](https://github.com/SalomonBrys/Kodein) ⚠️ Archived - 让你的 Kotlin 实现无痛依赖注入
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
