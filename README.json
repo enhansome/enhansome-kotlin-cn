@@ -354,7 +354,7 @@
                 "open_issues": 68,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4160,
+                "stars": 4161,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -560,10 +560,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T15:13:30Z",
-                "open_issues": 174,
+                "open_issues": 175,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9292,
+                "stars": 9293,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:13.644Z",
+    "last_updated": "2026-10-03T18:59:30.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
