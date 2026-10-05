@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,474 | 🐛 454 | 🌐 Kotlin | 📅 2026-10-04
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,479 | 🐛 447 | 🌐 Kotlin | 📅 2026-10-05
 
 ## 中文社区
 
@@ -87,7 +87,7 @@
 
 ### Android 开发
 
-* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) ⭐ 1,583 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - An Android project template using Kotlin/MVP/ReactiveX.
+* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) ⭐ 1,582 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - An Android project template using Kotlin/MVP/ReactiveX.
 * [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 889 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - Kotlin library for Android
 * [Kotpref](https://github.com/chibatching/Kotpref) ⚠️ Archived - Android SharedPreference delegation for Kotlin.
 * [Fuese](https://github.com/kittinunf/Fuse) ⭐ 286 | 🐛 3 | 🌐 Kotlin | 📅 2022-06-01 - The simple generic LRU memory/disk cache for Android
@@ -95,7 +95,7 @@
 
 ### Web 开发
 
-* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,537 | 🐛 200 | 🌐 Kotlin | 📅 2026-10-04 - 用 Kotlin 写的 Web 后端开发框架
+* [ktor](https://github.com/Kotlin/ktor) ⭐ 14,536 | 🐛 205 | 🌐 Kotlin | 📅 2026-10-05 - 用 Kotlin 写的 Web 后端开发框架
 * [Kovert](https://github.com/kohesive/kovert) ⭐ 158 | 🐛 9 | 🌐 Kotlin | 📅 2018-11-15 - The invisible REST and web framework
 * [KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) ⭐ 89 | 🐛 2 | 🌐 Kotlin | 📅 2017-01-15 - KotlinPrimavera is a set of Kotlin libraries to support Spring portfolio projects
 * [Yested](https://github.com/jean79/yested) ⭐ 87 | 🐛 15 | 🌐 JavaScript | 📅 2018-02-06 - 用来开发 SPA 应用的框架
@@ -105,13 +105,13 @@
 
 ### 网络
 
-* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,647 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31 - The easiest HTTP networking library for Kotlin/Android.
+* [Fuel](https://github.com/kittinunf/Fuel) ⭐ 4,647 | 🐛 100 | 🌐 Kotlin | 📅 2026-10-05 - The easiest HTTP networking library for Kotlin/Android.
 * [Wasabi](https://github.com/wasabifx/wasabi) ⭐ 499 | 🐛 20 | 🌐 Kotlin | 📅 2019-11-08 - HTTP 框架
 * [khttp](https://github.com/jkcclemens/khttp) ⭐ 0 | 🐛 0 | 📅 2026-02-18 - khttp is a simple library for HTTP requests in Kotlin.
 
 ### 依赖注入
 
-* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,161 | 🐛 68 | 🌐 Kotlin | 📅 2026-10-03
+* [KotlinPoet](https://github.com/square/kotlinpoet) ⭐ 4,162 | 🐛 68 | 🌐 Kotlin | 📅 2026-10-03
 * [Kotter Knife](https://github.com/JakeWharton/kotterknife) ⚠️ Archived - View "injection" library for Android
 * [injekt](https://github.com/kohesive/injekt) ⚠️ Archived - Kotlin 依赖注入
 * [Kodein](https://github.com/SalomonBrys/Kodein) ⚠️ Archived - 让你的 Kotlin 实现无痛依赖注入
@@ -128,13 +128,13 @@
 
 ### 数据库
 
-* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,293 | 🐛 176 | 🌐 Kotlin | 📅 2026-10-02 - Kotlin SQL 库
+* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,292 | 🐛 177 | 🌐 Kotlin | 📅 2026-10-05 - Kotlin SQL 库
 * [KotliQuery](https://github.com/seratch/kotliquery) ⭐ 219 | 🐛 14 | 🌐 Kotlin | 📅 2025-01-10 - A handy Database access library in Kotlin
 * [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) ⭐ 216 | 🐛 11 | 🌐 Kotlin | 📅 2017-09-12 - NoSQL database query and access library for Kotlin
 
 ### 测试
 
-* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,789 | 🐛 52 | 🌐 Kotlin | 📅 2026-10-02 - Kotlin 测试框架
+* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,789 | 🐛 53 | 🌐 Kotlin | 📅 2026-10-02 - Kotlin 测试框架
 * [HamKrest](https://github.com/npryce/hamkrest) ⭐ 343 | 🐛 6 | 🌐 Kotlin | 📅 2024-05-16 - Hamcrest for Kotlin
 * [Knit](https://github.com/ntaro/knit) ⭐ 59 | 🐛 0 | 🌐 Kotlin | 📅 2016-02-26 - JUnit API set for Kotlin
 * [Spek](http://spekframework.org/) - 	A Specification Framework
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
