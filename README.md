@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,479 | 🐛 447 | 🌐 Kotlin | 📅 2026-10-05
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,478 | 🐛 457 | 🌐 Kotlin | 📅 2026-10-06
 
 ## 中文社区
 
@@ -87,7 +87,7 @@
 
 ### Android 开发
 
-* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) ⭐ 1,582 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - An Android project template using Kotlin/MVP/ReactiveX.
+* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) ⭐ 1,583 | 🐛 2 | 🌐 Kotlin | 📅 2021-02-05 - An Android project template using Kotlin/MVP/ReactiveX.
 * [KAndroid](https://github.com/pawegio/KAndroid) ⭐ 889 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-02 - Kotlin library for Android
 * [Kotpref](https://github.com/chibatching/Kotpref) ⚠️ Archived - Android SharedPreference delegation for Kotlin.
 * [Fuese](https://github.com/kittinunf/Fuse) ⭐ 286 | 🐛 3 | 🌐 Kotlin | 📅 2022-06-01 - The simple generic LRU memory/disk cache for Android
@@ -118,7 +118,7 @@
 
 ### 函数式编程
 
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,025 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) ⭐ 7,024 | 🐛 29 | 🌐 Kotlin | 📅 2023-10-16
 * [Result](https://github.com/kittinunf/Result) ⭐ 934 | 🐛 2 | 🌐 Kotlin | 📅 2026-02-09 - The modelling for success/failure of operations in Kotlin
 * [funKTionale](https://github.com/MarioAriasC/funKTionale) ⭐ 913 | 🐛 11 | 🌐 Kotlin | 📅 2019-12-19 - Functional constructs for Kotlin
 
@@ -128,7 +128,7 @@
 
 ### 数据库
 
-* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,292 | 🐛 177 | 🌐 Kotlin | 📅 2026-10-05 - Kotlin SQL 库
+* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,293 | 🐛 177 | 🌐 Kotlin | 📅 2026-10-06 - Kotlin SQL 库
 * [KotliQuery](https://github.com/seratch/kotliquery) ⭐ 219 | 🐛 14 | 🌐 Kotlin | 📅 2025-01-10 - A handy Database access library in Kotlin
 * [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) ⭐ 216 | 🐛 11 | 🌐 Kotlin | 📅 2017-09-12 - NoSQL database query and access library for Kotlin
 
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

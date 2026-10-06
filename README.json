@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "android",
                   "template"
@@ -449,7 +449,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7025,
+                "stars": 7024,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -559,11 +559,11 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:55:12Z",
+                "last_commit": "2026-10-06T02:16:43Z",
                 "open_issues": 177,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9292,
+                "stars": 9293,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:18:46.102Z",
+    "last_updated": "2026-10-06T10:48:39.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
