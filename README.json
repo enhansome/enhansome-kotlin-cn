@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1583,
+                "stars": 1584,
                 "topics": [
                   "android",
                   "template"
@@ -148,11 +148,11 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T13:37:45Z",
-                "open_issues": 209,
+                "last_commit": "2026-10-08T15:34:59Z",
+                "open_issues": 208,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14537,
+                "stars": 14541,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -275,7 +275,7 @@
                 "open_issues": 100,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4647,
+                "stars": 4648,
                 "topics": [
                   "android",
                   "http-client",
@@ -303,7 +303,7 @@
                 "open_issues": 20,
                 "owner": "wasabifx",
                 "repo": "wasabi",
-                "stars": 499,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
@@ -350,8 +350,8 @@
                 "id": 83513404,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T20:00:09Z",
-                "open_issues": 69,
+                "last_commit": "2026-10-08T10:39:40Z",
+                "open_issues": 68,
                 "owner": "square",
                 "repo": "kotlinpoet",
                 "stars": 4162,
@@ -379,7 +379,7 @@
                 "open_issues": 16,
                 "owner": "JakeWharton",
                 "repo": "kotterknife",
-                "stars": 2206,
+                "stars": 2207,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
@@ -449,7 +449,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7024,
+                "stars": 7022,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -559,8 +559,8 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T16:27:33Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-08T14:20:26Z",
+                "open_issues": 177,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9297,
@@ -635,7 +635,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T06:18:05Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "kotest",
                 "repo": "kotest",
                 "stars": 4790,
@@ -864,7 +864,7 @@
                 "open_issues": 12,
                 "owner": "githubwing",
                 "repo": "GankClient-Kotlin",
-                "stars": 1514,
+                "stars": 1515,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:58:56.921Z",
+    "last_updated": "2026-10-08T21:00:29.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
@@ -942,7 +942,7 @@
       "open_issues": 2,
       "owner": "xitu",
       "repo": "awesome-kotlin-cn",
-      "stars": 1077,
+      "stars": 1076,
       "topics": [
         "awesome",
         "kotlin"
