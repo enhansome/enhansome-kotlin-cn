@@ -148,11 +148,11 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T15:34:59Z",
-                "open_issues": 208,
+                "last_commit": "2026-10-09T15:44:13Z",
+                "open_issues": 203,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14541,
+                "stars": 14543,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -275,7 +275,7 @@
                 "open_issues": 100,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4648,
+                "stars": 4647,
                 "topics": [
                   "android",
                   "http-client",
@@ -350,11 +350,11 @@
                 "id": 83513404,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T10:39:40Z",
+                "last_commit": "2026-10-09T04:10:58Z",
                 "open_issues": 68,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4162,
+                "stars": 4163,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -532,7 +532,7 @@
                 "open_issues": 95,
                 "owner": "cbeust",
                 "repo": "klaxon",
-                "stars": 1863,
+                "stars": 1862,
                 "topics": [
                   "json",
                   "kotlin"
@@ -559,11 +559,11 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T14:20:26Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-09T18:19:09Z",
+                "open_issues": 180,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9297,
+                "stars": 9296,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -634,11 +634,11 @@
                 "id": 47071082,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T06:18:05Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-09T20:12:44Z",
+                "open_issues": 53,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4790,
+                "stars": 4789,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:00:29.836Z",
+    "last_updated": "2026-10-09T20:31:47.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
@@ -939,10 +939,10 @@
       "language": null,
       "license": null,
       "last_commit": "2017-05-31T11:10:47Z",
-      "open_issues": 2,
+      "open_issues": 4,
       "owner": "xitu",
       "repo": "awesome-kotlin-cn",
-      "stars": 1076,
+      "stars": 1075,
       "topics": [
         "awesome",
         "kotlin"
