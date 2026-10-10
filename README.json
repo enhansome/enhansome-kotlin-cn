@@ -275,7 +275,7 @@
                 "open_issues": 100,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4647,
+                "stars": 4646,
                 "topics": [
                   "android",
                   "http-client",
@@ -350,8 +350,8 @@
                 "id": 83513404,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T04:10:58Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-10T14:05:47Z",
+                "open_issues": 70,
                 "owner": "square",
                 "repo": "kotlinpoet",
                 "stars": 4163,
@@ -559,11 +559,11 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T18:19:09Z",
+                "last_commit": "2026-10-09T20:40:57Z",
                 "open_issues": 180,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9296,
+                "stars": 9299,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -634,11 +634,11 @@
                 "id": 47071082,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T20:12:44Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-09T23:45:31Z",
+                "open_issues": 51,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4789,
+                "stars": 4788,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:31:47.074Z",
+    "last_updated": "2026-10-10T19:43:21.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
