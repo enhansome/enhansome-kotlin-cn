@@ -72,7 +72,7 @@
                 "open_issues": 0,
                 "owner": "chibatching",
                 "repo": "Kotpref",
-                "stars": 694,
+                "stars": 693,
                 "topics": [
                   "android",
                   "kotlin",
@@ -148,11 +148,11 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T17:33:00Z",
+                "last_commit": "2026-10-14T14:52:35Z",
                 "open_issues": 131,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14544,
+                "stars": 14545,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -354,7 +354,7 @@
                 "open_issues": 67,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4163,
+                "stars": 4164,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -560,7 +560,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T10:45:19Z",
-                "open_issues": 179,
+                "open_issues": 180,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9300,
@@ -634,8 +634,8 @@
                 "id": 47071082,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T19:32:20Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-14T18:08:18Z",
+                "open_issues": 46,
                 "owner": "kotest",
                 "repo": "kotest",
                 "stars": 4788,
@@ -885,7 +885,7 @@
                 "open_issues": 8,
                 "owner": "wuapnjie",
                 "repo": "PoiShuhui-Kotlin",
-                "stars": 951,
+                "stars": 952,
                 "topics": [
                   "comic",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:58:09.163Z",
+    "last_updated": "2026-10-14T19:57:23.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
