@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,471 | 🐛 467 | 🌐 Kotlin | 📅 2026-10-16
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,478 | 🐛 467 | 🌐 Kotlin | 📅 2026-10-17
 
 ## 中文社区
 
@@ -128,13 +128,13 @@
 
 ### 数据库
 
-* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,299 | 🐛 180 | 🌐 Kotlin | 📅 2026-10-16 - Kotlin SQL 库
+* [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,299 | 🐛 182 | 🌐 Kotlin | 📅 2026-10-17 - Kotlin SQL 库
 * [KotliQuery](https://github.com/seratch/kotliquery) ⭐ 219 | 🐛 14 | 🌐 Kotlin | 📅 2025-01-10 - A handy Database access library in Kotlin
 * [Kotlin NoSQL](https://github.com/cheptsov/kotlin-nosql) ⭐ 216 | 🐛 11 | 🌐 Kotlin | 📅 2017-09-12 - NoSQL database query and access library for Kotlin
 
 ### 测试
 
-* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,788 | 🐛 44 | 🌐 Kotlin | 📅 2026-10-16 - Kotlin 测试框架
+* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,788 | 🐛 45 | 🌐 Kotlin | 📅 2026-10-16 - Kotlin 测试框架
 * [HamKrest](https://github.com/npryce/hamkrest) ⭐ 343 | 🐛 6 | 🌐 Kotlin | 📅 2024-05-16 - Hamcrest for Kotlin
 * [Knit](https://github.com/ntaro/knit) ⭐ 59 | 🐛 0 | 🌐 Kotlin | 📅 2016-02-26 - JUnit API set for Kotlin
 * [Spek](http://spekframework.org/) - 	A Specification Framework
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
