@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "nekocode",
                 "repo": "create-android-kotlin-app",
-                "stars": 1583,
+                "stars": 1584,
                 "topics": [
                   "android",
                   "template"
@@ -72,7 +72,7 @@
                 "open_issues": 0,
                 "owner": "chibatching",
                 "repo": "Kotpref",
-                "stars": 694,
+                "stars": 693,
                 "topics": [
                   "android",
                   "kotlin",
@@ -148,11 +148,11 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T15:55:55Z",
-                "open_issues": 130,
+                "last_commit": "2026-10-19T12:42:20Z",
+                "open_issues": 129,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14549,
+                "stars": 14548,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -354,7 +354,7 @@
                 "open_issues": 67,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4164,
+                "stars": 4163,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -559,11 +559,11 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T12:18:36Z",
+                "last_commit": "2026-10-19T15:14:12Z",
                 "open_issues": 182,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9299,
+                "stars": 9297,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -635,7 +635,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-18T16:47:31Z",
-                "open_issues": 45,
+                "open_issues": 47,
                 "owner": "kotest",
                 "repo": "kotest",
                 "stars": 4789,
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:26:29.790Z",
+    "last_updated": "2026-10-19T20:52:00.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
