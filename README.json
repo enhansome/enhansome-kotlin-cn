@@ -149,10 +149,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T12:42:20Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14548,
+                "stars": 14549,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -350,7 +350,7 @@
                 "id": 83513404,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T05:08:53Z",
+                "last_commit": "2026-10-20T18:37:07Z",
                 "open_issues": 67,
                 "owner": "square",
                 "repo": "kotlinpoet",
@@ -559,8 +559,8 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T15:14:12Z",
-                "open_issues": 182,
+                "last_commit": "2026-10-20T11:09:18Z",
+                "open_issues": 184,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9297,
@@ -782,7 +782,7 @@
                 "open_issues": 7,
                 "owner": "hotchemi",
                 "repo": "khronos",
-                "stars": 329,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:52:00.183Z",
+    "last_updated": "2026-10-20T19:48:44.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
