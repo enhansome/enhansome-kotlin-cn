@@ -25,7 +25,7 @@
 * [Kotlin 官网](https://kotlinlang.org/)
 * [Kotlin 文档](https://kotlinlang.org/docs/reference/)
 * [Kotlin 文档中文版](http://www.kotlincn.net/docs/reference/)
-* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,495 | 🐛 478 | 🌐 Kotlin | 📅 2026-10-20
+* [Kotlin on GitHub](https://github.com/JetBrains/kotlin) ⭐ 53,495 | 🐛 479 | 🌐 Kotlin | 📅 2026-10-21
 
 ## 中文社区
 
@@ -134,7 +134,7 @@
 
 ### 测试
 
-* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,789 | 🐛 47 | 🌐 Kotlin | 📅 2026-10-18 - Kotlin 测试框架
+* [KotlinTest](https://github.com/kotlintest/kotlintest) ⭐ 4,789 | 🐛 44 | 🌐 Kotlin | 📅 2026-10-21 - Kotlin 测试框架
 * [HamKrest](https://github.com/npryce/hamkrest) ⭐ 343 | 🐛 6 | 🌐 Kotlin | 📅 2024-05-16 - Hamcrest for Kotlin
 * [Knit](https://github.com/ntaro/knit) ⭐ 59 | 🐛 0 | 🌐 Kotlin | 📅 2016-02-26 - JUnit API set for Kotlin
 * [Spek](http://spekframework.org/) - 	A Specification Framework
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
