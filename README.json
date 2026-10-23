@@ -45,7 +45,7 @@
                 "open_issues": 6,
                 "owner": "pawegio",
                 "repo": "KAndroid",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "android",
                   "kotlin",
@@ -149,7 +149,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T12:42:20Z",
-                "open_issues": 131,
+                "open_issues": 133,
                 "owner": "ktorio",
                 "repo": "ktor",
                 "stars": 14550,
@@ -275,7 +275,7 @@
                 "open_issues": 100,
                 "owner": "kittinunf",
                 "repo": "fuel",
-                "stars": 4646,
+                "stars": 4645,
                 "topics": [
                   "android",
                   "http-client",
@@ -354,7 +354,7 @@
                 "open_issues": 67,
                 "owner": "square",
                 "repo": "kotlinpoet",
-                "stars": 4163,
+                "stars": 4164,
                 "topics": [
                   "code-generation",
                   "javapoet",
@@ -449,7 +449,7 @@
                 "open_issues": 29,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7019,
+                "stars": 7018,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -560,7 +560,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T11:09:18Z",
-                "open_issues": 184,
+                "open_issues": 185,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9300,
@@ -638,7 +638,7 @@
                 "open_issues": 46,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4788,
+                "stars": 4789,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:43:25.731Z",
+    "last_updated": "2026-10-23T19:45:17.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
@@ -942,7 +942,7 @@
       "open_issues": 4,
       "owner": "xitu",
       "repo": "awesome-kotlin-cn",
-      "stars": 1075,
+      "stars": 1076,
       "topics": [
         "awesome",
         "kotlin"
