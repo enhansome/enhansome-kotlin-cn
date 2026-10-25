@@ -152,7 +152,7 @@
                 "open_issues": 133,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14551,
+                "stars": 14554,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -247,7 +247,7 @@
                 "open_issues": 22,
                 "owner": "gimlet2",
                 "repo": "kottpd",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
@@ -351,7 +351,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T17:58:05Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "square",
                 "repo": "kotlinpoet",
                 "stars": 4164,
@@ -563,7 +563,7 @@
                 "open_issues": 185,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9300,
+                "stars": 9301,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -638,7 +638,7 @@
                 "open_issues": 46,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4788,
+                "stars": 4787,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:34:07.926Z",
+    "last_updated": "2026-10-25T18:42:46.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
