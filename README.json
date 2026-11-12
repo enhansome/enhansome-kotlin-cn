@@ -148,11 +148,11 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T15:33:06Z",
+                "last_commit": "2026-11-12T19:37:15Z",
                 "open_issues": 131,
                 "owner": "ktorio",
                 "repo": "ktor",
-                "stars": 14562,
+                "stars": 14563,
                 "topics": [
                   "async",
                   "asynchronous",
@@ -559,11 +559,11 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T18:38:20Z",
-                "open_issues": 187,
+                "last_commit": "2026-11-12T15:57:24Z",
+                "open_issues": 189,
                 "owner": "JetBrains",
                 "repo": "Exposed",
-                "stars": 9301,
+                "stars": 9302,
                 "topics": [
                   "dao",
                   "kotlin",
@@ -634,11 +634,11 @@
                 "id": 47071082,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T11:10:29Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-12T10:20:08Z",
+                "open_issues": 47,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4787,
+                "stars": 4788,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -885,7 +885,7 @@
                 "open_issues": 8,
                 "owner": "wuapnjie",
                 "repo": "PoiShuhui-Kotlin",
-                "stars": 952,
+                "stars": 951,
                 "topics": [
                   "comic",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:27:31.029Z",
+    "last_updated": "2026-11-12T22:01:54.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
