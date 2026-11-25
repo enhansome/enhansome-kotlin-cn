@@ -148,8 +148,8 @@
                 "id": 40136600,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T19:03:21Z",
-                "open_issues": 134,
+                "last_commit": "2026-11-25T20:13:57Z",
+                "open_issues": 132,
                 "owner": "ktorio",
                 "repo": "ktor",
                 "stars": 14577,
@@ -179,7 +179,7 @@
                 "open_issues": 9,
                 "owner": "kohesive",
                 "repo": "kovert",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:23:22.422Z"
@@ -449,7 +449,7 @@
                 "open_issues": 28,
                 "owner": "ReactiveX",
                 "repo": "RxKotlin",
-                "stars": 7012,
+                "stars": 7011,
                 "topics": [
                   "kotlin",
                   "rxjava"
@@ -559,8 +559,8 @@
                 "id": 11765017,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T10:32:32Z",
-                "open_issues": 197,
+                "last_commit": "2026-11-25T18:59:38Z",
+                "open_issues": 198,
                 "owner": "JetBrains",
                 "repo": "Exposed",
                 "stars": 9304,
@@ -635,10 +635,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-24T07:02:03Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "kotest",
                 "repo": "kotest",
-                "stars": 4790,
+                "stars": 4791,
                 "topics": [
                   "assertions",
                   "kotlin",
@@ -930,7 +930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:18:58.096Z",
+    "last_updated": "2026-11-25T23:58:17.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。",
